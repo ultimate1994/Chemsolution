@@ -51,7 +51,7 @@
 								</div>
 								<div class="join_form_inner">
 								    <label for="password"><font class="join_font">PASSWORD</font>
-								        <input type="password" class="login" name="password" id="password" placeholder="PASSWORD">
+								        <input type="password" class="login" name="password" id="password" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" title="비밀번호는 적어도 8자 이상, 대문자, 소문자, 숫자의 조합으로 만들어주세요!" required placeholder="PASSWORD">
 								    </label>
 							    </div>
 								<div class="join_form_inner">
