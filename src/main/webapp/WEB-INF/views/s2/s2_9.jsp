@@ -74,24 +74,24 @@
 		</div>
 		<nav class="header_nav">
 			<ul>
-				<li><a href="http://chemsolution.net/s1/s1_1.php">ABOUT US</a>
+				<li><a href="http://chemsolution.net/s1/s1_1.jsp">ABOUT US</a>
 					<ul>
 					</ul>
 				</li>
-				<li><a href="http://chemsolution.net/s2/s2_1.php">PRODUCTS</a>
+				<li><a href="http://chemsolution.net/s2/s2_1.jsp">PRODUCTS</a>
 						<ul>
-						<li><a href="http://chemsolution.net/s2/s2_1.php">AROMATIC SOLVENT</a></li>
-						<li><a href="http://chemsolution.net/s2/s2_2_1.php">ALIPHATIC HYDROCARBON</a></li>
-						<li><a href="http://chemsolution.net/s2/s2_3.php">PETROLEUM SOLVENT</a></li>
-						<li><a href="http://chemsolution.net/s2/s2_4.php">LUBE BASE OIL</a></li>
-						<li><a href="http://chemsolution.net/s2/s2_5.php">SYNTHETIC RESIN</a></li>
-						<li><a href="http://chemsolution.net/s2/s2_6.php">ADDITIVE</a></li>
-						<li><a href="http://chemsolution.net/s2/s2_7.php">LUBRICANT ADDITVE</a></li>
-						<li><a href="http://chemsolution.net/s2/s2_8.php">ELECTRONIC SOLVENT</a></li>
-						<li><a href="http://chemsolution.net/s2/s2_9.php">ABRASIVE</a></li>
+						<li><a href="http://chemsolution.net/s2/s2_1.jsp">AROMATIC SOLVENT</a></li>
+						<li><a href="http://chemsolution.net/s2/s2_2_1.jsp">ALIPHATIC HYDROCARBON</a></li>
+						<li><a href="http://chemsolution.net/s2/s2_3.jsp">PETROLEUM SOLVENT</a></li>
+						<li><a href="http://chemsolution.net/s2/s2_4.jsp">LUBE BASE OIL</a></li>
+						<li><a href="http://chemsolution.net/s2/s2_5.jsp">SYNTHETIC RESIN</a></li>
+						<li><a href="http://chemsolution.net/s2/s2_6.jsp">ADDITIVE</a></li>
+						<li><a href="http://chemsolution.net/s2/s2_7.jsp">LUBRICANT ADDITVE</a></li>
+						<li><a href="http://chemsolution.net/s2/s2_8.jsp">ELECTRONIC SOLVENT</a></li>
+						<li><a href="http://chemsolution.net/s2/s2_9.jsp">ABRASIVE</a></li>
 					</ul>
 				</li>
-				<li><a href="http://chemsolution.net/s3/s3_1.php">CONTACT US</a>
+				<li><a href="http://chemsolution.net/s3/s3_1.jsp">CONTACT US</a>
 					<ul>
 					</ul>
 				</li>
@@ -107,22 +107,22 @@
 	<div id="ln_area">
 		<h2 class="h2_label">PRODUCTS</h2>
 		<ul class="ln">
-							<li class=""><a href="http://chemsolution.net/s2/s2_1.php">AROMATIC SOLVENT</a></li>
-				<li class=""><a href="http://chemsolution.net/s2/s2_2_1.php">ALIPHATIC HYDROCARBON</a>
+							<li class=""><a href="http://chemsolution.net/s2/s2_1.jsp">AROMATIC SOLVENT</a></li>
+				<li class=""><a href="http://chemsolution.net/s2/s2_2_1.jsp">ALIPHATIC HYDROCARBON</a>
 					<ul>
-						<li class="current"><a href="http://chemsolution.net/s2/s2_2_1.php">- ISOPARAFFINIC HYDROCARBON</a></li>
-						<li class=""><a href="http://chemsolution.net/s2/s2_2_2.php">- DEAROMATIC HYDROCARBON</a></li>
-						<li class=""><a href="http://chemsolution.net/s2/s2_2_3.php">- NAPHTHENIC HYDROCARBON</a></li>
+						<li class="current"><a href="http://chemsolution.net/s2/s2_2_1.jsp">- ISOPARAFFINIC HYDROCARBON</a></li>
+						<li class=""><a href="http://chemsolution.net/s2/s2_2_2.jsp">- DEAROMATIC HYDROCARBON</a></li>
+						<li class=""><a href="http://chemsolution.net/s2/s2_2_3.jsp">- NAPHTHENIC HYDROCARBON</a></li>
 					</ul>
 				</li>
-				<li class=""><a href="http://chemsolution.net/s2/s2_3.php">PETROLEUM SOLVENT</a></li>
-				<li class=""><a href="http://chemsolution.net/s2/s2_4.php">LUBE BASE OIL</a></li>
-				<li class=""><a href="http://chemsolution.net/s2/s2_5.php">SYNTHETIC RESIN</a></li>
-				<li class=""><a href="http://chemsolution.net/s2/s2_6.php">ADDITIVE</a>
+				<li class=""><a href="http://chemsolution.net/s2/s2_3.jsp">PETROLEUM SOLVENT</a></li>
+				<li class=""><a href="http://chemsolution.net/s2/s2_4.jsp">LUBE BASE OIL</a></li>
+				<li class=""><a href="http://chemsolution.net/s2/s2_5.jsp">SYNTHETIC RESIN</a></li>
+				<li class=""><a href="http://chemsolution.net/s2/s2_6.jsp">ADDITIVE</a>
 				</li>
-				<li class=""><a href="http://chemsolution.net/s2/s2_7.php">LUBRICANT ADDITVE</a></li>
-				<li class=""><a href="http://chemsolution.net/s2/s2_8.php">ELECTRONIC SOLVENT</a></li>
-				<li class="current"><a href="http://chemsolution.net/s2/s2_9.php">ABRASIVE</a></li>
+				<li class=""><a href="http://chemsolution.net/s2/s2_7.jsp">LUBRICANT ADDITVE</a></li>
+				<li class=""><a href="http://chemsolution.net/s2/s2_8.jsp">ELECTRONIC SOLVENT</a></li>
+				<li class="current"><a href="http://chemsolution.net/s2/s2_9.jsp">ABRASIVE</a></li>
 					</ul>
 	</div>
 	<div id="sub_cnt">
@@ -312,7 +312,7 @@
 </footer>
 <div class="layer_popup">
 	<iframe src="" name="iFrame_area"></iframe>
-</div>	<a href="http://chemsolution.net/s2/s2_9.php?device=mobile" id="device_change">모바일 버전으로 보기</a>
+</div>	<a href="http://chemsolution.net/s2/s2_9.jsp?device=mobile" id="device_change">모바일 버전으로 보기</a>
 <script>
 	$(function() {
 		// 폰트 리사이즈 쿠키있으면 실행
